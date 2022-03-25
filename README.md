@@ -1,12 +1,10 @@
 <h2 style="text-align: center;"> <samp>😀 Hello</samp></h2>
-<img src="https://github.com/robsoncartes/robsoncartes/assets/blob/main/Earth.gif" width="24px" alt="world">
 <h1 style="text-align: center;">Software Engineer | Programmer | Software Developer</h1>
 <h4 style="text-align: center;">"<i>To accomplish great things, we must not only act, but also dream; not only plan, but also believe.</i>" - Anatole France</h4>
 
 - 🔭 I’m currently working on my own website, graduation project and many other projects...
 - 🌱 I’m currently learning about Cloud Computing (AWS, Azure), CI/CD, Kubernetes, Microservices and Back-end
   programming (Java)...
-- ⚡ Fun fact: I love reading, play video games, listening music and travel.
 
 ## Languages and Tools </h3>
 <p align="center">
@@ -94,11 +92,38 @@
   <a href="https://vuejs.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="42" height="42"/>
   </a>
-
-
-
-
-
 </p>
 
 ## Statistics
+
+<p align="center"> 
+	<a href="https://github.com/robsoncartes"><img src="https://komarev.com/ghpvc/?username=robsoncartes" alt="robsoncartes"/></a>
+	<a href="https://github.com/robsoncartes?tab=repositories"><img src="https://badges.pufler.dev/repos/robsoncartes" alt="robsoncartes" /></a>
+	<img src="https://img.shields.io/github/stars/robsoncartes?label=Stars" alt="Total Stars">
+</p>
+
+[![Robson's GitHub stats](https://github-readme-stats.vercel.app/api?username=robsoncartes&count_private=true&show_icons=true&theme=vue-dark&hide_rank=false&include_all_commits=true)](https://github.com/robsoncartes/github-readme-stats)
+
+<a href="https://github.com/robsoncartes/gpds">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robsoncartes&repo=gpds&show_owner=robsoncartes" />
+</a>
+
+<a href="https://github.com/robsoncartes/happy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robsoncartes&repo=happy&show_owner=robsoncartes" />
+</a>
+
+<a href="https://github.com/robsoncartes/projeto-javalin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robsoncartes&repo=projeto-javalin&show_owner=robsoncartes" />
+</a>
+
+<a href="https://github.com/robsoncartes/analise-de-prestacao-de-contas-partidarias-de-eleicoes-estaduais">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robsoncartes&repo=analise-de-prestacao-de-contas-partidarias-de-eleicoes-estaduais&show_owner=robsoncartes" />
+</a>
+
+<a href="https://github.com/robsoncartes/projetolabv-back-end">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robsoncartes&repo=projetolabv-back-end&show_owner=robsoncartes" />
+</a>
+
+<a href="https://github.com/robsoncartes/ILP302">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robsoncartes&repo=ILP302&show_owner=robsoncartes" />
+</a>
