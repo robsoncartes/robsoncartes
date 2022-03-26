@@ -1,5 +1,4 @@
-<h2 style="text-align: center;"> <samp>Hello World!😀</samp></h2>
-### Hello &nbsp;<img src="https://github.com/robsoncartes/teste-robsoncartes/blob/main/assets/Earth.gif" width="32px">
+<h2 style="text-align: center;"> <samp>Hello <img src="https://github.com/robsoncartes/teste-robsoncartes/blob/main/assets/Earth.gif" width="32px">!😀</samp></h2>
 <h1 style="text-align: center;">Back-end Software Developer</h1>
 <h4 style="text-align: center;">"<i>To accomplish great things, we must not only act, but also dream; not only plan, but also believe.</i>" - Anatole France</h4>
 
