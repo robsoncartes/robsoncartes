@@ -1,5 +1,5 @@
-<h2 style="text-align: center;"> <samp>😀 Hello</samp></h2>
-<h1 style="text-align: center;">Software Engineer | Programmer | Software Developer</h1>
+<h2 style="text-align: center;"> <samp>Hello World!😀</samp></h2>
+<h1 style="text-align: center;">Back-end Software Developer</h1>
 <h4 style="text-align: center;">"<i>To accomplish great things, we must not only act, but also dream; not only plan, but also believe.</i>" - Anatole France</h4>
 
 - 🔭 I’m currently working on my own website, graduation project and many other projects...
@@ -102,28 +102,15 @@
 	<img src="https://img.shields.io/github/stars/robsoncartes?label=Stars" alt="Total Stars">
 </p>
 
-[![Robson's GitHub stats](https://github-readme-stats.vercel.app/api?username=robsoncartes&count_private=true&show_icons=true&theme=vue-dark&hide_rank=false&include_all_commits=true)](https://github.com/robsoncartes/github-readme-stats)
 
-<a href="https://github.com/robsoncartes/gpds">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robsoncartes&repo=gpds&show_owner=robsoncartes" />
-</a>
+| <a href="https://github.com/robsoncartes/robsoncartes-readme-stats"><img align="center" src="https://robsoncartes-readme-stats.vercel.app/api?username=robsoncartes&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="Robson Sousa's Github stats" /></a> | <a href="https://github.com/robsoncartes/github-readme-stats"><img align="center" src="https://robsoncartes-readme-stats.vercel.app/api/top-langs/?username=robsoncartes&layout=compact&theme=vue-dark&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-<a href="https://github.com/robsoncartes/happy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robsoncartes&repo=happy&show_owner=robsoncartes" />
-</a>
+| <a href="https://github.com/robsoncartes/gpds"><img align="center" src="https://robsoncartes-readme-stats.vercel.app/api/pin/?username=robsoncartes&repo=gpds&show_owner=robsoncartes" /></a> | <a href="https://github.com/robsoncartes/happy"><img align="center" src="https://robsoncartes-readme-stats.vercel.app/api/pin/?username=robsoncartes&repo=happy&show_owner=robsoncartes" /></a> |
+| ------------- | ------------- |
 
-<a href="https://github.com/robsoncartes/projeto-javalin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robsoncartes&repo=projeto-javalin&show_owner=robsoncartes" />
-</a>
+| <a href="https://github.com/robsoncartes/projeto-javalin"><img align="center" src="https://robsoncartes-readme-stats.vercel.app/api/pin/?username=robsoncartes&repo=projeto-javalin&show_owner=robsoncartes" /></a> | <a href="https://github.com/robsoncartes/analise-de-prestacao-de-contas-partidarias-de-eleicoes-estaduais"><img align="center" src="https://robsoncartes-readme-stats.vercel.app/api/pin/?username=robsoncartes&repo=analise-de-prestacao-de-contas-partidarias-de-eleicoes-estaduais&show_owner=robsoncartes" /></a> |
+| ------------- | ------------- |
 
-<a href="https://github.com/robsoncartes/analise-de-prestacao-de-contas-partidarias-de-eleicoes-estaduais">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robsoncartes&repo=analise-de-prestacao-de-contas-partidarias-de-eleicoes-estaduais&show_owner=robsoncartes" />
-</a>
-
-<a href="https://github.com/robsoncartes/projetolabv-back-end">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robsoncartes&repo=projetolabv-back-end&show_owner=robsoncartes" />
-</a>
-
-<a href="https://github.com/robsoncartes/ILP302">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robsoncartes&repo=ILP302&show_owner=robsoncartes" />
-</a>
+| <a href="https://github.com/robsoncartes/projetolabv-back-end"><img align="center" src="https://robsoncartes-readme-stats.vercel.app/api/pin/?username=robsoncartes&repo=projetolabv-back-end&show_owner=robsoncartes" /></a> | <a href="https://github.com/robsoncartes/ILP302"><img align="center" src="https://robsoncartes-readme-stats.vercel.app/api/pin/?username=robsoncartes&repo=ILP302&show_owner=robsoncartes" /></a> |
+| ------------- | ------------- |
