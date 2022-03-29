@@ -122,12 +122,3 @@
 
 | <a href="https://github.com/robsoncartes/robsoncartes-readme-stats"><img align="center" src="https://robsoncartes-readme-stats.vercel.app/api?username=robsoncartes&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="Robson Sousa's Github stats" /></a> | <a href="https://github.com/robsoncartes/github-readme-stats"><img align="center" src="https://robsoncartes-readme-stats.vercel.app/api/top-langs/?username=robsoncartes&layout=compact&theme=vue-dark&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-#### Top Repositories
-
-<a href="https://github.com/robsoncartes/gpds"><img align="center" src="https://robsoncartes-readme-stats.vercel.app/api/pin/?username=robsoncartes&repo=gpds&show_owner=robsoncartes" /></a>
-<a href="https://github.com/robsoncartes/happy"><img align="center" src="https://robsoncartes-readme-stats.vercel.app/api/pin/?username=robsoncartes&repo=happy&show_owner=robsoncartes" /></a>
-<a href="https://github.com/robsoncartes/projeto-javalin"><img align="center" src="https://robsoncartes-readme-stats.vercel.app/api/pin/?username=robsoncartes&repo=projeto-javalin&show_owner=robsoncartes" /></a>
-<a href="https://github.com/robsoncartes/analise-de-prestacao-de-contas-partidarias-de-eleicoes-estaduais"><img align="center" src="https://robsoncartes-readme-stats.vercel.app/api/pin/?username=robsoncartes&repo=analise-de-prestacao-de-contas-partidarias-de-eleicoes-estaduais&show_owner=robsoncartes" /></a>
-<a href="https://github.com/robsoncartes/projetolabv-back-end"><img align="center" src="https://robsoncartes-readme-stats.vercel.app/api/pin/?username=robsoncartes&repo=projetolabv-back-end&show_owner=robsoncartes" /></a>
-<a href="https://github.com/robsoncartes/ILP302"><img align="center" src="https://robsoncartes-readme-stats.vercel.app/api/pin/?username=robsoncartes&repo=ILP302&show_owner=robsoncartes" /></a>
