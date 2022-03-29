@@ -1,4 +1,4 @@
-<h2 style="text-align: center;"> <samp>Hello <img src="https://github.com/robsoncartes/teste-robsoncartes/blob/main/assets/Earth.gif" width="32px">!😀</samp></h2>
+<h2 style="text-align: center;"> <samp>Hello <img src="https://github.com/robsoncartes/robsoncartes/blob/main/assets/Earth.gif" width="32px">!😀</samp></h2>
 <h1 style="text-align: center;">Back-end Software Developer</h1>
 <h4 style="text-align: center;">"<i>To accomplish great things, we must not only act, but also dream; not only plan, but also believe.</i>" - Anatole France</h4>
 
@@ -6,9 +6,7 @@
 - 🌱 I’m currently learning about Cloud Computing (AWS, Azure), CI/CD, Kubernetes, Microservices and Back-end 
   programming (Java)...
 
-[![Spotify](https://novatorem-six-phi.vercel.app/api/spotify)](https://open.spotify.com/user/225yz5alpkwma2ye7fbcikydi)
-
-
+<a href="https://open.spotify.com/user/225yz5alpkwma2ye7fbcikydi"><img align="center" src="https://novatorem-robsoncartes.vercel.app/api/spotify" alt="Robson Sousa's Playing Spotify" /></a>
 
 
 ## Languages and Tools </h3>
