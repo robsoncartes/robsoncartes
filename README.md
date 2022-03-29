@@ -3,8 +3,13 @@
 <h4 style="text-align: center;">"<i>To accomplish great things, we must not only act, but also dream; not only plan, but also believe.</i>" - Anatole France</h4>
 
 - 🔭 I’m currently working on my own website, graduation project and many other projects...
-- 🌱 I’m currently learning about Cloud Computing (AWS, Azure), CI/CD, Kubernetes, Microservices and Back-end
+- 🌱 I’m currently learning about Cloud Computing (AWS, Azure), CI/CD, Kubernetes, Microservices and Back-end 
   programming (Java)...
+
+[![Spotify](https://novatorem-six-phi.vercel.app/api/spotify)](https://open.spotify.com/user/225yz5alpkwma2ye7fbcikydi)
+
+
+
 
 ## Languages and Tools </h3>
 <p align="center">
