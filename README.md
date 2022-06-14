@@ -105,3 +105,5 @@
 
 | <a href="https://github.com/robsoncartes/robson-github-readme-stats"><img align="center" src="https://robson-github-readme-stats.vercel.app/api?username=robsoncartes&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="Robson Sousa's Github stats" /></a> | <a href="https://github.com/robsoncartes/robson-github-readme-stats"><img align="center" src="https://robson-github-readme-stats.vercel.app/api/top-langs/?username=robsoncartes&layout=compact&theme=vue-dark&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+[![robsoncartes's wakatime stats](https://robson-github-readme-stats.vercel.app/api/wakatime?username=robsoncartes)](https://github.com/robsoncartes/robson-github-readme-stats)
