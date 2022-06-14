@@ -108,10 +108,3 @@
 
 [![robsoncartes's wakatime stats](https://robson-github-readme-stats.vercel.app/api/wakatime?username=robsoncartes)](https://github.com/robsoncartes/robson-github-readme-stats)
 
-<a href="https://github.com/robsoncartes/robson-github-readme-stats">
-    <img align="center"
-         src="https://robson-github-readme-stats.vercel.app/api/pin/?username=robsoncartes&repo=robson-github-readme-stats"/>
-</a>
-<a href="https://github.com/robsoncartes/convoychat">
-    <img align="center" src="https://robson-github-readme-stats.vercel.app/api/pin/?username=robsoncartes&repo=convoychat"/>
-</a>
