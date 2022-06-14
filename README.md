@@ -107,3 +107,5 @@
 | ------------- | ------------- |
 
 [![robsoncartes's wakatime stats](https://robson-github-readme-stats.vercel.app/api/wakatime?username=robsoncartes)](https://github.com/robsoncartes/robson-github-readme-stats)
+
+[![Top Langs](https://robson-github-readme-stats.vercel.app/api/top-langs/?username=robsoncartes&langs_count=8)](https://github.com/robsoncartes/robson-github-readme-stats)
